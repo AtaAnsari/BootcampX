@@ -14,3 +14,5 @@ CREATE TABLE assignment_submissions (
   duration INTEGER,
   submission_date DATE
 );
+
+
